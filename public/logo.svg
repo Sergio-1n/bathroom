@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="220" height="60" viewBox="0 0 220 60">
+  <!-- Icon: stylized house -->
+  <polygon points="10,40 30,20 50,40" fill="#3659ceff"/>
+  <rect x="20" y="30" width="20" height="20" fill="#FACC15"/>
+  
+  <!-- Text -->
+  <text x="70" y="47" font-family="Poppins, Arial" font-size="34" fill="#3659ceff" font-weight="bold">
+    MK Bygg
+  </text>
+</svg>
