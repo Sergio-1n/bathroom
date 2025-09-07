@@ -37,7 +37,7 @@ export default function BathroomMockup({
     toilet2: { left: '29%', top: '64%', width: '20%' },
     sink1: { left: '51.5%', top: '45%', width: '16%' },
     sink2: { left: '51.5%', top: '45%', width: '16%' },
-    vanity: { left: '51.5%', top: '64%', width: '16%' },
+    vanity: { left: '51.5%', top: '62%', width: '15%' },
     doubleDrain: { left: '72%', top: '76%', width: '12%' },
   };
 

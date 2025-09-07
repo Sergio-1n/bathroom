@@ -1,9 +1,14 @@
-<svg width="260" height="361" viewBox="0 0 260 361" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-<mask id="mask0_62_118" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="260" height="361">
-<path d="M0.5 6V0.5H260V325.5H242V355L239.5 360.5H236.5H231V358L228.5 355V353.5V325.5H162H29.5V331.5V339V349.5V353.5L28 358V360.5H26H22.5H20L17 358V355V349.5V325.5H10H0.5V172.5V37V6Z" fill="#C1C1C1"/>
+<svg width="260" height="360" viewBox="0 0 260 360" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<mask id="mask0_62_118" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="260" height="360">
+<path d="M0 5.5V0H259.5V325H241.5V354.5L239 360H236H230.5V357.5L228 354.5V353V325H161.5H29V331V338.5V349V353L27.5 357.5V360H25.5H22H19.5L16.5 357.5V354.5V349V325H9.5H0V172V36.5V5.5Z" fill="#C1C1C1"/>
 </mask>
 <g mask="url(#mask0_62_118)">
-<rect x="-23" y="-26" width="312" height="404" fill="url(#pattern0_62_118)"/>
+<mask id="mask1_62_118" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="1" y="10" width="259" height="350">
+<path d="M259.5 10.5C153.9 58.5 43.1667 30.5 1 10.5V325H17V353L20 360H26L29.5 353V325H228.5V353L231.5 357V360H242V357V325H259.5V10.5Z" fill="black"/>
+</mask>
+<g mask="url(#mask1_62_118)">
+<rect x="-23.5" y="-26.5" width="312" height="404" fill="url(#pattern0_62_118)"/>
+</g>
 </g>
 <defs>
 <pattern id="pattern0_62_118" patternContentUnits="objectBoundingBox" width="1" height="1">
